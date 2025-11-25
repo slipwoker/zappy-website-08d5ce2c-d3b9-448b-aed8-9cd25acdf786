@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://popeat-08d5ce2c.zappy5.app/sitemap.xml
